@@ -1,5 +1,2 @@
-total 0
--rw-r--r-- 1 root root 0 Nov 30 17:45 0-current_working_directory
--rw-r--r-- 1 root root 0 Nov 30 17:54 1-listit
--rw-r--r-- 1 root root 0 Nov 30 17:59 2-bring_me_home
--rw-r--r-- 1 root root 0 Nov 30 18:13 3-listfiles
+#!/bin/bash
+ls -l
